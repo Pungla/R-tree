@@ -1,4 +1,4 @@
-# R-Tree Implementation in C#
+# R-Tree Implementation on C#
 
 This project is an implementation of an R-Tree, a data structure used for indexing multi-dimensional information such as geographical coordinates, rectangles, or other geometric shapes. The R-Tree structure is particularly useful for spatial access methods, allowing efficient querying of spatial data.
 
